@@ -1,4 +1,4 @@
 # hello-math
-Just very first try ,little turn on!
+Just very first try ,i feel a little satisfied.
 
-who knows what supose to write here,what the f languege this is,am i drunk?
+Learning how to merge branch, is useful and delightful.
